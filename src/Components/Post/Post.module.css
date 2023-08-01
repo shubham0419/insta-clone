@@ -1,0 +1,32 @@
+.post{
+    padding-bottom: 10px;
+}
+header{
+    display: flex;
+    gap: 7px;
+    align-items: center;
+}
+
+header img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+main{
+    width: 30vw;
+    height: 480px;
+    overflow: hidden;
+}
+
+main img{
+    width: 100%;
+    height: 100%;
+}
+
+.post div{
+    width: 30vw;
+    display: flex;
+    gap: 10px;
+    border-bottom: 1px solid lightgray;
+}
